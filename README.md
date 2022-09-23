@@ -18,6 +18,9 @@ Example sudoku.txt:<br>
 		5,0,0,3,0,0,0,0,0
 		9,0,0,0,0,4,0,1,8
 		4,0,0,2,0,0,0,3,0 
+ <br>
+ Open your command line, navigate to the folder where you stored the files, and run:
+ <code>python sudoku.py</code>
  
 <h3>License</h3>
 Licensed under the MIT License. <br>
